@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div h1{
+    font-size: 60px;
+    background-color: blue;
+    border-style: double
+}
+#dibujo{
+    border-bottom-color: chartreuse;
+    width: 150px;
+    height: 80px;
+}
+.secciones{
+    font-family: cursive;
+    background-color: aqua
+    
+}
+
+.al-lado {
+    display: inline-block;
+    width: 45%;
+}
